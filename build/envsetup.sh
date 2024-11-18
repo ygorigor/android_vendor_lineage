@@ -1034,5 +1034,7 @@ function generate_host_overrides() {
 
 generate_host_overrides
 
+export KBUILD_BUILD_USER=build-user
+export KBUILD_BUILD_HOST=build-host
 export USE_THINLTO_CACHE=true
 export SKIP_ABI_CHECKS=true
