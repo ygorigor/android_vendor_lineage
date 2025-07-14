@@ -171,4 +171,7 @@
 
     <!-- Name of the font family to use in the default lockscreen clock -->
     <string name="config_clockFontFamily" translatable="false" />
+
+    <!-- Whether the developer option for desktop mode is supported on the current device  -->
+    <bool name="config_isDesktopModeDevOptionSupported">true</bool>
 </resources>
