@@ -5,7 +5,6 @@
 ALARM_PATH := vendor/lineage/prebuilt/common/media/audio/alarms
 NOTIFICATION_PATH := vendor/lineage/prebuilt/common/media/audio/notifications
 RINGTONE_PATH := vendor/lineage/prebuilt/common/media/audio/ringtones
-UI_PATH := vendor/lineage/prebuilt/common/media/audio/ui
 
 # Alarms
 PRODUCT_COPY_FILES += \
@@ -32,14 +31,3 @@ PRODUCT_COPY_FILES += \
     $(RINGTONE_PATH)/Rockin.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Rockin.ogg \
     $(RINGTONE_PATH)/Sheep.mp3:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Sheep.mp3 \
     $(RINGTONE_PATH)/Yukaay.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Yukaay.ogg
-
-#UI
-PRODUCT_COPY_FILES += \
-    $(UI_PATH)/camera_click.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/camera_click.ogg \
-    $(UI_PATH)/camera_focus.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/camera_focus.ogg \
-    $(UI_PATH)/ChargingStarted.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/ChargingStarted.ogg \
-    $(UI_PATH)/Dock.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/Dock.ogg \
-    $(UI_PATH)/Lock.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/Lock.ogg \
-    $(UI_PATH)/LowBattery.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/LowBattery.ogg \
-    $(UI_PATH)/Undock.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/Undock.ogg
-    $(UI_PATH)/Unlock.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/Unlock.ogg
