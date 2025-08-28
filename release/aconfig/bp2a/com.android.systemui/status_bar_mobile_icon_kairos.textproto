@@ -2,5 +2,5 @@ flag_value {
   package: "com.android.systemui"
   name: "status_bar_mobile_icon_kairos"
   state: ENABLED
-  permission: READ_WRITE
+  permission: READ_ONLY
 }
