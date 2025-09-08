@@ -982,9 +982,8 @@
   <apn carrier="life MMS" mcc="257" mnc="04" apn="mms.life.com.by" proxy="" port="" mmsproxy="10.10.10.20" mmsport="8080" mmsc="http://mms.life.com.by/mmsc" type="mms" />
   <apn carrier="Life:) // Internet" mcc="257" mnc="04" apn="mms.life.com.by" proxy="" port="" user="" password="" mmsc="" type="default,supl" />
   <apn carrier="Life:) // MMS" mcc="257" mnc="04" apn="mms.life.com.by" proxy="" port="" user="" password="" mmsc="http://mms.life.com.by/mmsc/" mmsproxy="10.10.10.20" mmsport="8080" type="mms" />
-  <apn carrier="Orange IMO" mcc="259" mnc="01" apn="wap.orange.md" proxy="" port="" user="" password="" mmsc="http://wap.orange.md/" mmsproxy="9201" mmsport="8799" type="*" />
   <apn carrier="Orange MMS" mcc="259" mnc="01" apn="mms.orange.md" mmsc="http://mms/mms" mmsproxy="192.168.127.125" mmsport="3128" type="mms" />
-  <apn carrier="Orange IMO" mcc="259" mnc="01" apn="wap.orange.md" proxy="192.168.127.124" mmsport="3128" type="default,supl" />
+  <apn carrier="Orange IMO" mcc="259" mnc="01" apn="wap.orange.md" type="default,supl" />
   <apn carrier="MD MOLDCELL" mcc="259" mnc="02" apn="internet" type="default,supl" />
   <apn carrier="MD MOLDCELL" mcc="259" mnc="02" apn="mms" mmsproxy="10.0.10.10" mmsport="9401" mmsc="http://mms.moldcell.md/cmmsc/post" type="mms" />
   <apn carrier="Unite Internet PrePay" mcc="259" mnc="05" apn="internet3g.unite.md" type="default,supl" />
