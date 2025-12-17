@@ -17,6 +17,7 @@ aconfig_value_set {
     name: "aconfig_value_set-lineage-bp3a",
     values: [
         "aconfig-values-bp3a-android.app-all",
+        "aconfig-values-bp3a-android.hardware.biometrics-all",
         "aconfig-values-bp3a-android.media.codec-all",
         "aconfig-values-bp3a-android.media.tv.flags-all",
         "aconfig-values-bp3a-android.service.dreams-all",
