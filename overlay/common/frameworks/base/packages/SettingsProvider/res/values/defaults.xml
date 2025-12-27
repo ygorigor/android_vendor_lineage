@@ -38,4 +38,7 @@
 
     <!-- Default for Settings.System.VIBRATE_WHEN_RINGING -->
     <bool name="def_vibrate_when_ringing">true</bool>
+
+    <!-- Whether vibrate icon is shown in the status bar by default. -->
+    <integer name="def_statusBarVibrateIconEnabled">1</integer>
 </resources>
