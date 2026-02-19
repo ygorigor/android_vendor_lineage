@@ -261,9 +261,6 @@ endif
 # Audio files
 $(call inherit-product, vendor/lineage/audio/audio.mk)
 
-# Enable Material Design 3 Expressive
-PRODUCT_PRODUCT_PROPERTIES += is_expressive_design_enabled=true
-
 # SetupWizard
 PRODUCT_PRODUCT_PROPERTIES += \
     setupwizard.theme=glif_expressive \
