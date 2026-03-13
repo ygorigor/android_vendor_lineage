@@ -7,8 +7,6 @@ PRODUCT_SIZE := full
 $(call inherit-product-if-exists, external/google-fonts/google-sans-flex/fonts.mk)
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
 $(call inherit-product-if-exists, external/google-fonts/rubik/fonts.mk)
-$(call inherit-product-if-exists, external/custom-fonts/AlbertSans/fonts.mk)
-$(call inherit-product-if-exists, external/custom-fonts/Vazirmatn/fonts.mk)
 
 # Apps
 PRODUCT_PACKAGES += \
@@ -39,9 +37,7 @@ PRODUCT_PACKAGES += \
     fonts_customization.xml \
     FontGoogleSansFlexOverlay \
     FontLatoOverlay \
-    FontRubikOverlay \
-    FontAlbertSansOverlay \
-    FontVazirmatnOverlay
+    FontRubikOverlay
 
 # Include Lineage LatinIME dictionaries
 PRODUCT_PACKAGE_OVERLAYS += vendor/lineage/overlay/dictionaries
