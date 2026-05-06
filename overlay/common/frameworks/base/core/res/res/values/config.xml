@@ -180,6 +180,12 @@
     <!-- Name of the font family to use in the default lockscreen clock -->
     <string name="config_clockFontFamily" translatable="false" />
 
+    <!-- Whether to enable glanceable hub features on this device. -->
+    <bool name="config_glanceableHubEnabled">true</bool>
+
+    <!-- Whether glanceable hub is enabled by default. -->
+    <bool name="config_glanceableHubEnabledByDefault">true</bool>
+
     <!-- Whether the developer option for desktop mode is supported on the current device  -->
     <bool name="config_isDesktopModeDevOptionSupported">true</bool>
     
