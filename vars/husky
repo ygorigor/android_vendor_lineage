@@ -2,16 +2,16 @@
 
 # Updated semi-manually via pixel/update-any-var.sh
 
-readonly build_id="BP4A.260205.001"
+readonly build_id="CP2A.260705.006"
 
 # Updated automatically via pixel/update-device-vars.sh
 
-readonly build_number="14624666"
+readonly build_number="15641320"
 
-readonly image_url="https://dl.google.com/dl/android/aosp/husky-bp4a.260205.001-factory-61e86561.zip"
-readonly image_sha256="61e8656110a3799189d2124d8b85c79c6ed5bbc89a26543080b5055ac0db5213"
+readonly image_url="https://dl.google.com/dl/android/aosp/husky-cp2a.260705.006-factory-999ddd89.zip"
+readonly image_sha256="999ddd898485bb8ce519ff2e081bb63734f1d08e6ad9f10e47a51894d9a600d0"
 
-readonly flash_url="https://flash.android.com/build/14624666?target=husky-user&signed"
+readonly flash_url="https://flash.android.com/build/15641320?target=husky-user&signed"
 
-readonly ota_url="https://dl.google.com/dl/android/aosp/husky-ota-bp4a.260205.001-ab7f2d54.zip"
-readonly ota_sha256="ab7f2d5402fcfb86b4351c8d606326299189cd91accf51087a58e4be3a5d0d50"
+readonly ota_url="https://dl.google.com/dl/android/aosp/husky-ota-cp2a.260705.006-adca0996.zip"
+readonly ota_sha256="adca0996a7c3e15306b280916b0bd0a05df65ecdafd529c9fec6f44f4b6437e6"
