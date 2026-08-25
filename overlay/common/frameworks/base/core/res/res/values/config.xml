@@ -179,9 +179,13 @@
     <!-- Whether glanceable hub is enabled by default. -->
     <bool name="config_glanceableHubEnabledByDefault">true</bool>
 
+    <!-- The minimum number of visible recent tasks to be presented to the user through the
+         SystemUI. Can be -1 if there is no minimum limit. -->
+    <integer name="config_minNumVisibleRecentTasks">30</integer>
+
     <!-- Whether the developer option for desktop mode is supported on the current device  -->
     <bool name="config_isDesktopModeDevOptionSupported">true</bool>
-    
+
     <!-- Define the tolerated gap of score for auto data switch decision, larger than which the
          device will switch to the SIM with higher score. The score is used in conjunction with the
          score table defined in
@@ -189,7 +193,7 @@
          If 0, the device always switch to the higher score SIM.
          If < 0, the network type and signal strength based auto switch is disabled. -->
     <integer name="auto_data_switch_score_tolerance">-1</integer>
-    
+
      <!-- Whether the new Auto Selection Network UI should be shown -->
     <bool name="config_enableNewAutoSelectNetworkUI">true</bool>
 
