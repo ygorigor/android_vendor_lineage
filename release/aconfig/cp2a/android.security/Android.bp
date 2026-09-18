@@ -16,6 +16,6 @@ aconfig_values {
   name: "aconfig-values-lineage-cp2a-android.security-all",
   package: "android.security",
   srcs: [
-    "*.textproto",
+    "*_flag_values.textproto",
   ],
 }
