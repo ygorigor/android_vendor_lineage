@@ -1,0 +1,6 @@
+<vibration-effect>
+  <primitive-effect name="slow_rise" scale="0.25"/>
+  <primitive-effect name="slow_rise" scale="0.5"/>
+  <primitive-effect name="slow_rise" scale="0.75"/>
+  <primitive-effect name="slow_rise" scale="1.0"/>
+</vibration-effect>
