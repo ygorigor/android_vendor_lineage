@@ -1,0 +1,426 @@
+<vibration-effect>
+	<primitive-effect name="click" scale="1.0" delayMs="0" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="159" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="6" />
+	
+
+	<primitive-effect name="thud" scale="1.0" delayMs="142" />
+	
+	<!-- BOOKEND -->
+
+	<primitive-effect name="tick" scale="0.0" delayMs="154" />
+	
+
+</vibration-effect>

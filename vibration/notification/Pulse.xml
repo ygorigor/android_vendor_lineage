@@ -1,0 +1,5 @@
+<vibration-effect>
+  <waveform-effect>
+    <waveform-entry durationMs="100" amplitude="default"/>
+  </waveform-effect>
+</vibration-effect>

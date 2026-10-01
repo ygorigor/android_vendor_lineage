@@ -1,0 +1,198 @@
+<vibration-effect>
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="0" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+
+	<primitive-effect name="quick_rise" scale="1.0" delayMs="812" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="106" />
+	
+	<!-- BOOKEND -->
+
+	<primitive-effect name="tick" scale="0.0" delayMs="807" />
+	
+
+</vibration-effect>
