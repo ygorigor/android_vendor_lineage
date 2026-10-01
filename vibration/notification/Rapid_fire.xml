@@ -1,0 +1,45 @@
+<vibration-effect>
+  <primitive-effect name="click" scale="1.0"/>
+  <primitive-effect name="tick" scale="1.0" delayMs="10"/>
+  <primitive-effect name="click" scale="1.0" delayMs="10"/>
+  <primitive-effect name="tick" scale="1.0" delayMs="10"/>
+  <primitive-effect name="click" scale="1.0" delayMs="10"/>
+  <primitive-effect name="tick" scale="1.0" delayMs="10"/>
+  <primitive-effect name="click" scale="1.0" delayMs="10"/>
+  <primitive-effect name="tick" scale="1.0" delayMs="10"/>
+  <primitive-effect name="click" scale="1.0" delayMs="10"/>
+  <primitive-effect name="tick" scale="1.0" delayMs="10"/>
+  <primitive-effect name="click" scale="1.0" delayMs="10"/>
+  <primitive-effect name="tick" scale="1.0" delayMs="10"/>
+  <primitive-effect name="click" scale="1.0" delayMs="10"/>
+  <primitive-effect name="tick" scale="1.0" delayMs="10"/>
+  <primitive-effect name="click" scale="1.0" delayMs="10"/>
+  <primitive-effect name="tick" scale="1.0" delayMs="10"/>
+  <primitive-effect name="click" scale="1.0" delayMs="10"/>
+  <primitive-effect name="tick" scale="1.0" delayMs="10"/>
+  <primitive-effect name="click" scale="1.0" delayMs="10"/>
+  <primitive-effect name="tick" scale="1.0" delayMs="10"/>
+  <primitive-effect name="click" scale="1.0" delayMs="10"/>
+  <primitive-effect name="tick" scale="1.0" delayMs="10"/>
+  <primitive-effect name="click" scale="1.0" delayMs="10"/>
+  <primitive-effect name="tick" scale="1.0" delayMs="10"/>
+  <primitive-effect name="click" scale="1.0" delayMs="10"/>
+  <primitive-effect name="tick" scale="1.0" delayMs="10"/>
+  <primitive-effect name="click" scale="1.0" delayMs="10"/>
+  <primitive-effect name="tick" scale="1.0" delayMs="10"/>
+  <primitive-effect name="click" scale="1.0" delayMs="10"/>
+  <primitive-effect name="tick" scale="1.0" delayMs="10"/>
+  <primitive-effect name="click" scale="1.0" delayMs="10"/>
+  <primitive-effect name="tick" scale="1.0" delayMs="10"/>
+  <primitive-effect name="click" scale="1.0" delayMs="10"/>
+  <primitive-effect name="tick" scale="1.0" delayMs="10"/>
+  <primitive-effect name="click" scale="1.0" delayMs="10"/>
+  <primitive-effect name="tick" scale="1.0" delayMs="10"/>
+  <primitive-effect name="click" scale="1.0" delayMs="10"/>
+  <primitive-effect name="tick" scale="1.0" delayMs="10"/>
+  <primitive-effect name="click" scale="1.0" delayMs="10"/>
+  <primitive-effect name="tick" scale="1.0" delayMs="10"/>
+  <primitive-effect name="click" scale="1.0" delayMs="10"/>
+  <primitive-effect name="tick" scale="1.0" delayMs="10"/>
+  <primitive-effect name="click" scale="1.0" delayMs="10"/>
+</vibration-effect>

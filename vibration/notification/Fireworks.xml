@@ -1,0 +1,35 @@
+<vibration-effect>
+	<primitive-effect name="slow_rise" scale="1.0" delayMs="0" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="0" />
+	
+
+	<primitive-effect name="click" scale="0.89" delayMs="72" />
+	
+
+	<primitive-effect name="click" scale="0.78" delayMs="72" />
+	
+
+	<primitive-effect name="click" scale="0.67" delayMs="72" />
+	
+
+	<primitive-effect name="click" scale="0.56" delayMs="72" />
+	
+
+	<primitive-effect name="click" scale="0.44" delayMs="72" />
+	
+
+	<primitive-effect name="click" scale="0.33" delayMs="72" />
+	
+
+	<primitive-effect name="click" scale="0.22" delayMs="72" />
+	
+
+	<primitive-effect name="click" scale="0.11" delayMs="72" />
+	
+
+	<primitive-effect name="click" scale="0.0" delayMs="72" />
+	
+
+</vibration-effect>
