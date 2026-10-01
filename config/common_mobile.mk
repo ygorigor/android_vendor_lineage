@@ -8,6 +8,8 @@ include vendor/lineage/config/aosp_audio.mk
 # Include Lineage audio files
 include vendor/lineage/config/lineage_audio.mk
 
+include vendor/lineage/config/vibration_config.mk
+
 # Default notification/alarm sounds
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.config.notification_sound=Argon.ogg \

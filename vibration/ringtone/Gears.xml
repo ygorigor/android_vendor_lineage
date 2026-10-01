@@ -1,0 +1,1506 @@
+<vibration-effect>
+	<primitive-effect name="low_tick" scale="1.0" delayMs="0" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="158" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="164" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="slow_rise" scale="1.0" delayMs="458" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="25" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="158" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="164" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="slow_rise" scale="1.0" delayMs="458" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="25" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="158" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="164" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="slow_rise" scale="1.0" delayMs="458" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="25" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="158" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="164" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="slow_rise" scale="1.0" delayMs="458" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="25" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="158" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="164" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="slow_rise" scale="1.0" delayMs="458" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="25" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="158" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="164" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="slow_rise" scale="1.0" delayMs="458" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="25" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="158" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="164" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="slow_rise" scale="1.0" delayMs="458" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="25" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="158" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="164" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="slow_rise" scale="1.0" delayMs="458" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="25" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="158" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="164" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="slow_rise" scale="1.0" delayMs="458" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="25" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="158" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="164" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="slow_rise" scale="1.0" delayMs="458" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="25" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="158" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="164" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="slow_rise" scale="1.0" delayMs="458" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="25" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="158" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="164" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="slow_rise" scale="1.0" delayMs="458" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="25" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="158" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="164" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="slow_rise" scale="1.0" delayMs="458" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="25" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="158" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="164" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="slow_rise" scale="1.0" delayMs="458" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="25" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="158" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="164" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="slow_rise" scale="1.0" delayMs="458" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="25" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="158" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="164" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="slow_rise" scale="1.0" delayMs="458" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="25" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="158" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="164" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="slow_rise" scale="1.0" delayMs="458" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="25" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="158" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="164" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="slow_rise" scale="1.0" delayMs="458" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="25" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="158" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="164" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="slow_rise" scale="1.0" delayMs="458" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="25" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="low_tick" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="158" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="14" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="164" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="click" scale="1.0" delayMs="8" />
+	
+
+	<primitive-effect name="slow_rise" scale="1.0" delayMs="458" />
+	
+	<!-- BOOKEND -->
+
+	<primitive-effect name="tick" scale="0.0" delayMs="20" />
+	
+
+</vibration-effect>
