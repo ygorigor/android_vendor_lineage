@@ -1,0 +1,786 @@
+<vibration-effect>
+	<primitive-effect name="spin" scale="1.0" delayMs="0" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="99" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="quick_fall" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="130" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="187" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="99" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="quick_fall" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="129" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="99" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="quick_fall" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="130" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="187" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="99" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="quick_fall" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="129" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="99" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="quick_fall" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="130" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="187" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="99" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="quick_fall" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="129" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="99" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="quick_fall" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="130" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="187" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="99" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="quick_fall" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="129" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="99" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="quick_fall" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="130" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="187" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="99" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="quick_fall" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="129" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="99" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="quick_fall" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="130" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="187" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="99" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="quick_fall" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="129" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="99" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="quick_fall" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="130" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="187" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="99" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="quick_fall" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="129" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="99" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="quick_fall" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="130" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="187" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="99" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="quick_fall" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="129" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="99" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="quick_fall" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="130" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="187" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="99" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="quick_fall" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="129" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="99" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="quick_fall" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="130" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="187" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="spin" scale="1.0" delayMs="34" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="99" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="quick_fall" scale="1.0" delayMs="225" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="129" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="226" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+
+	<primitive-effect name="tick" scale="1.0" delayMs="71" />
+	
+	<!-- Bookend -->
+
+	<primitive-effect name="tick" scale="0.0" delayMs="66" />
+	
+
+</vibration-effect>

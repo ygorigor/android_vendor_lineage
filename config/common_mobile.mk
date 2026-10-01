@@ -4,6 +4,8 @@ $(call inherit-product, vendor/lineage/config/common.mk)
 # Include Pixel audio files
 include vendor/lineage/config/pixel_audio.mk
 
+include vendor/lineage/config/vibration_config.mk
+
 # Default notification/alarm sounds
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.config.notification_sound=Eureka.ogg \
