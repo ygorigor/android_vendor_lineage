@@ -1,0 +1,10 @@
+<vibration-effect>
+  <waveform-effect>
+    <waveform-entry durationMs="94" amplitude="default"/>
+    <waveform-entry durationMs="94" amplitude="0"/>
+    <waveform-entry durationMs="94" amplitude="default"/>
+    <waveform-entry durationMs="94" amplitude="0"/>
+    <waveform-entry durationMs="94" amplitude="default"/>
+    <waveform-entry durationMs="1031" amplitude="0"/>
+  </waveform-effect>
+</vibration-effect>
